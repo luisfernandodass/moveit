@@ -6,7 +6,7 @@
 <p align="center">Projeto desenvolvido durante a Next Level Week 4 da Rocketseat.</p>
 <p align="center">Tenha períodos de intervalo para se exercitar a cada 25 minutos, a cada ciclo completado você irá ganhar pontos de xp para avançar ao próximo level. Tenha um dia de trabalho mais saúdavel utilizando essa aplicação!</p>
 
-<img src="https://github.com/luisfernandodass/IMAGENS/blob/main/public/moveit.png"/>
+<img src="https://github.com/luisfernandodass/IMAGENS/blob/main/moveit-imagens/moveit.png"/>
 
 
 
